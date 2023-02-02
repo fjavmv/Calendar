@@ -1,4 +1,4 @@
-package com.example.calendariopersonalizado;
+package com.example.calendariopersonalizado.view;
 import static android.content.ContentValues.TAG;
 
 import androidx.appcompat.app.ActionBar;
@@ -16,6 +16,7 @@ import android.widget.CalendarView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.calendariopersonalizado.R;
 import com.github.sundeepk.compactcalendarview.CompactCalendarView;
 import com.github.sundeepk.compactcalendarview.domain.Event;
 
